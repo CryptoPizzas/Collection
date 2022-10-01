@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=family=Itim&display=swap');
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-top: 1.5em;
+  padding: 0;
+  width: 100%;
+  table-layout: fixed;
+  font-family: 'Itim', cursive;
+}
+
+table caption {
+  font-size: 1.5em;
+  margin: .5em 0 .75em;
+}
+
+table tr {
+  background-color: #fefffd;
+  border: 1px solid #000000;
+  padding: .35em;
+}
+
+table th,
+table td {
+  padding: .625em;
+  text-align: center;
+  /*text-transform: capitalize;*/
+}
+
+table th {
+  font-size: .85em;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  background: #e8262e;
+}
+
+thead{
+  
+  color: #fee01c;
+}
+
+table:last-child {
+  margin-bottom: 2em;
+}
+
+
+@media screen and (max-width: 600px) {
+  table {
+    border: 0;
+    margin-top: 1em;
+  }
+  
+  table caption {
+    font-size: 1.3em;
+  }
+  
+  table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+  
+  table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em;
+  }
+  
+  table td {
+    border-bottom: 1px solid #e8262e;
+    display: block;
+    font-size: .8em;
+    text-align: right;
+  }
+  
+  table td::before {
+    content: attr(data-label);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  table td:last-child {
+    border-bottom: 0;
+  }
+  
+  table tr {
+    border-bottom: 1px solid #e8262e;
+    border-color: #e8262e;
+  }
+  
+  table:last-child {
+    margin-bottom: 1em;
+  }
+}
+
+
+
+
+
+
+
+
+

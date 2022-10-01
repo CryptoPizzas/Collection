@@ -1,0 +1,36 @@
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.5em;
+    margin-left: 4em;
+    margin-right: 4em;
+}
+
+.filter{
+    align-self: stretch;
+    flex-grow: 1;
+    min-width: 25%;
+}
+
+.pizza-list{
+    flex-grow: 3;
+    max-width: 75%;
+    margin-left: 2.6em;
+    margin-top: 0.4em;
+}
+
+@media screen and (max-width: 768px) {
+    .main-container{
+        flex-direction: column;
+        margin-left: 1.25em;
+        margin-right: 1.25em;
+    }
+    
+    .pizza-list{
+        min-width: 100%;
+        margin-top: 2em;
+        margin-right: 0;
+        margin-left: 0;
+    }
+}

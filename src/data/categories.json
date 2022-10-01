@@ -1,0 +1,63 @@
+[
+    {
+        "category_name": "base",
+        "options": [
+            {"value" : "0", "label" : "Red base"},
+            {"value" : "1", "label" : "White base"}
+        ]
+    },
+    {
+        "category_name": "firstLayer",
+        "options": [
+            {"value" : "4", "label" : "Cooked ham"},
+            {"value" : "5", "label" : "Eggplant"},
+            {"value" : "6", "label" : "Mortadella"},
+            {"value" : "2", "label" : "Mozarella"},
+            {"value" : "1", "label" : "Potatoes"},       
+            {"value" : "3", "label" : "Raw ham"},
+            {"value" : "7", "label" : "Salami"},
+            {"value" : "8", "label" : "Sausage"},
+            {"value" : "0", "label" : "None"}    
+        ]
+    },
+    {
+        "category_name": "secondLayer",
+        "options": [
+            {"value" : "2", "label" : "Anchovies"},
+            {"value" : "3", "label" : "Broccoli"},
+            {"value" : "7", "label" : "Eggs"},
+            {"value" : "1", "label" : "Gorgonzola"},
+            {"value" : "5", "label" : "Mushrooms"},
+            {"value" : "6", "label" : "Onions"},
+            {"value" : "4", "label" : "Zucchini"},
+            {"value" : "0", "label" : "None"}    
+        ]
+    },
+    {
+        "category_name": "thirdLayer",
+        "options": [
+            {"value" : "1", "label" : "Basil"},
+            {"value" : "3", "label" : "Black olives"},
+            {"value" : "4", "label" : "Flakes of parmesan"},
+            {"value" : "6", "label" : "Garlic"},
+            {"value" : "2", "label" : "Green olives"},
+            {"value" : "5", "label" : "Oregano"},
+            {"value" : "7", "label" : "Walnuts"},
+            {"value" : "8", "label" : "Yellow cherry tomatoes"},
+            {"value" : "0", "label" : "None"} 
+        ]
+    },
+    {
+        "category_name": "background",
+        "options": [
+            {"value" : "0", "label" : "Cerulean"},
+            {"value" : "1", "label" : "Cyan"},
+            {"value" : "2", "label" : "Light blue"},
+            {"value" : "3", "label" : "Lilac"},
+            {"value" : "4", "label" : "Purple"},
+            {"value" : "5", "label" : "Naples yellow"}
+        ]
+    }
+    
+    
+]

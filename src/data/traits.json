@@ -1,0 +1,232 @@
+[
+    [
+        {
+            "trait_name": "Cerulean",
+            "trait_rarity": "27"            
+        },
+        {
+            "trait_name": "Cyan",
+            "trait_rarity": "23"
+        },
+        {
+            "trait_name": "Light blue",
+            "trait_rarity": "23"
+        },
+        {
+            "trait_name": "Lilac",
+            "trait_rarity": "10"
+        },
+        {
+            "trait_name": "Purple",
+            "trait_rarity": "10"
+        },
+        {
+            "trait_name": "Naples yellow",
+            "trait_rarity": "7"
+        }
+    ],
+    [
+        {
+            "trait_name": "Red base",
+            "trait_rarity": "50",
+            "trait_price": "7.00",
+            "trait_quantity": "250",
+            "trait_description": "Red pizza made with soft wheat flour type 00"
+        },
+        {
+            "trait_name": "White base",
+            "trait_rarity": "50",
+            "trait_price": "7.00",
+            "trait_quantity": "250",
+            "trait_description": "White pizza made with soft wheat flour type 00"
+        }
+    ],
+    [
+        {
+            "trait_name": "Potatoes",
+            "trait_rarity": "12",
+            "trait_price": "0.28",
+            "trait_quantity": "300", 
+            "trait_description": "Organic early potatoes"
+        },
+        {
+            "trait_name": "Mozzarella",
+            "trait_rarity": "14",
+            "trait_price": "14.5",
+            "trait_quantity": "110", 
+            "trait_description": "Mozzarella produced with organic and controlled raw material"
+        },
+        {
+            "trait_name": "Raw ham",
+            "trait_rarity": "11",
+            "trait_price": "36",
+            "trait_quantity": "100", 
+            "trait_description": "Parma ham D.O.P."
+        },{
+            "trait_name": "Cooked ham",
+            "trait_rarity": "11",
+            "trait_price": "30",
+            "trait_quantity": "100",
+            "trait_description": "High quality natural cooked ham"
+        },
+        {
+            "trait_name": "Eggplant",
+            "trait_rarity": "9",
+            "trait_price": "4",
+            "trait_quantity": "300", 
+            "trait_description": "Organic long eggplants"
+        },
+        {
+            "trait_name": "Mortadella",
+            "trait_rarity": "12",
+            "trait_price": "16.42",
+            "trait_quantity": "100", 
+            "trait_description": "Mortadella Bologna I.G.P."
+        },
+        {
+            "trait_name": "Salami",
+            "trait_rarity": "12",
+            "trait_price": "25",
+            "trait_quantity": "100", 
+            "trait_description": "Campagnolo salami tied by hand"
+        },
+        {
+            "trait_name": "Sausage",
+            "trait_rarity": "7",
+            "trait_price": "11",
+            "trait_quantity": "100", 
+            "trait_description": "Fresh Neapolitan pork sausage"
+        },
+        {
+            "trait_name": "None",
+            "trait_rarity": "12",
+            "trait_price": "N/A",
+            "trait_quantity": "N/A", 
+            "trait_description": "N/A"
+        }
+    ],
+    [
+        {
+            "trait_name": "Gorgonzola",
+            "trait_rarity": "15",
+            "trait_price": "14.40",
+            "trait_quantity": "200", 
+            "trait_description": "Sweet gorgonzola D.O.P."
+        },
+        {
+            "trait_name": "Anchovies",
+            "trait_rarity": "5",
+            "trait_price": "30",
+            "trait_quantity": "80", 
+            "trait_description": "Anchovy fillets from the Cantabrian sea"
+        },
+        {
+            "trait_name": "Broccoli",
+            "trait_rarity": "14",
+            "trait_price": "12",
+            "trait_quantity": "250", 
+            "trait_description": "Organic broccoli"
+        },
+        {
+            "trait_name": "Zucchini",
+            "trait_rarity": "16",
+            "trait_price": "4",
+            "trait_quantity": "300", 
+            "trait_description": "Organic long zucchini"
+        },
+        {
+            "trait_name": "Mushrooms",
+            "trait_rarity": "15",
+            "trait_price": "18",
+            "trait_quantity": "200", 
+            "trait_description": "Fresh porcini mushrooms"
+        },
+        {
+            "trait_name": "Onions",
+            "trait_rarity": "15",
+            "trait_price": "5",
+            "trait_quantity": "75", 
+            "trait_description": "Red onion of Tropea"
+        },
+        {
+            "trait_name": "Eggs",
+            "trait_rarity": "5",
+            "trait_price": "8",
+            "trait_quantity": "110", 
+            "trait_description": "Eggs from hens raised on organic outdoor farms"
+        },
+        {
+            "trait_name": "None",
+            "trait_rarity": "12",
+            "trait_price": "N/A",
+            "trait_quantity": "N/A", 
+            "trait_description": "N/A"
+        }
+    ],
+    [
+        {
+            "trait_name": "Basil",
+            "trait_rarity": "15",
+            "trait_price": "16",
+            "trait_quantity": "40", 
+            "trait_description": "Fresh basil grown without the addition of chemical herbicides"
+        },
+        {
+            "trait_name": "Green olives",
+            "trait_rarity": "10",
+            "trait_price": "14.80",
+            "trait_quantity": "120", 
+            "trait_description": "Organic Leccino green olives"
+        },
+        {
+            "trait_name": "Black olives",
+            "trait_rarity": "10",
+            "trait_price": "14.80",
+            "trait_quantity": "120",
+            "trait_description": "Organic Leccino black olives"
+        },
+        {
+            "trait_name": "Flakes of parmesan",
+            "trait_rarity": "14",
+            "trait_price": "10.35",
+            "trait_quantity": "60", 
+            "trait_description": "Parmigiano Reggiano aged 12 months"
+        },
+        {
+            "trait_name": "Oregano",
+            "trait_rarity": "12",
+            "trait_price": "60",
+            "trait_quantity": "15", 
+            "trait_description": "Sicilian sun dried oregano"
+        },
+        {
+            "trait_name": "Garlic",
+            "trait_rarity": "12",
+            "trait_price": "12.53",
+            "trait_quantity": "15", 
+            "trait_description": "Neapolitan white garlic"
+        },
+        {
+            "trait_name": "Walnuts",
+            "trait_rarity": "5",
+            "trait_price": "17",
+            "trait_quantity": "40", 
+            "trait_description": "Sorrento walnuts"
+        },
+        {
+            "trait_name": "Yellow cherry tomatoes",
+            "trait_rarity": "10",
+            "trait_price": "6",
+            "trait_quantity": "200", 
+            "trait_description": "Piennolo cherry tomato"
+        },
+        {
+            "trait_name": "None",
+            "trait_rarity": "12",
+            "trait_price": "N/A",
+            "trait_quantity": "N/A", 
+            "trait_description": "N/A"
+        }
+    ]
+]
+
