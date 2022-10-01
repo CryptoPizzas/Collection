@@ -157,7 +157,7 @@ class Collection extends Component {
       <div className='pizza-list'>
       {
         this.state.filteredList.map(pizza => {
-          return <Pizza pizzaImage={pizza.img} name={pizza.name} description={pizza.description} shopLink={""}></Pizza>
+          return <Pizza key={pizza.name} pizzaImage={pizza.img} name={pizza.name} description={pizza.description} shopLink={pizza.link}></Pizza>
         })
       }
       
