@@ -130,6 +130,139 @@
     "Thirdlayer": "1",
     "description": "Red pizza with raw ham, zucchini and basil",
     "link" : "https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/24894684413737311044233570448812585590437399991195926479275464268934283264001/"
+  },
+  {
+    "img": "https://bafybeicebkhglsylosa5qi5yzcnrg3r225gvxxvlh2fbm26fakutqssyji.ipfs.nftstorage.link/13.png",
+    "name": "CryptoPizza #13",
+    "Background": "1",
+    "Base": "1",
+    "Firstlayer": "2",
+    "Secondlayer": "3",
+    "Thirdlayer": "0",
+    "description": "White pizza with mozzarella and broccoli",
+    "link":"https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/24894684413737311044233570448812585590437399991195926479275464270033794891777/"
+  },
+  {
+    "img": "https://bafybeicebkhglsylosa5qi5yzcnrg3r225gvxxvlh2fbm26fakutqssyji.ipfs.nftstorage.link/14.png",
+    "name": "CryptoPizza #14",
+    "Background": "0",
+    "Base": "0",
+    "Firstlayer": "4",
+    "Secondlayer": "3",
+    "Thirdlayer": "1",
+    "description": "Red pizza with cooked ham, broccoli and basil"
+    ,"link":"https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/24894684413737311044233570448812585590437399991195926479275464271133306519553/"
+  },
+  {
+    "img": "https://bafybeicebkhglsylosa5qi5yzcnrg3r225gvxxvlh2fbm26fakutqssyji.ipfs.nftstorage.link/15.png",
+    "name": "CryptoPizza #15",
+    "Background": "1",
+    "Base": "0",
+    "Firstlayer": "7",
+    "Secondlayer": "5",
+    "Thirdlayer": "3",
+    "description": "Red pizza with salami, mushrooms and black olives"
+    ,"link":"https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/24894684413737311044233570448812585590437399991195926479275464272232818147329/"
+  },
+  {
+    "img": "https://bafybeicebkhglsylosa5qi5yzcnrg3r225gvxxvlh2fbm26fakutqssyji.ipfs.nftstorage.link/16.png",
+    "name": "CryptoPizza #16",
+    "Background": "1",
+    "Base": "0",
+    "Firstlayer": "1",
+    "Secondlayer": "4",
+    "Thirdlayer": "3",
+    "description": "Red pizza with potatoes, zucchini and black olives"
+    ,"link":"https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/24894684413737311044233570448812585590437399991195926479275464273332329775105/"
+  },
+  {
+    "img": "https://bafybeicebkhglsylosa5qi5yzcnrg3r225gvxxvlh2fbm26fakutqssyji.ipfs.nftstorage.link/17.png",
+    "name": "CryptoPizza #17",
+    "Background": "0",
+    "Base": "1",
+    "Firstlayer": "0",
+    "Secondlayer": "1",
+    "Thirdlayer": "1",
+    "description": "White pizza with gorgonzola and basil"
+    ,"link":"https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/24894684413737311044233570448812585590437399991195926479275464274431841402881/"
+  },
+  {
+    "img": "https://bafybeicebkhglsylosa5qi5yzcnrg3r225gvxxvlh2fbm26fakutqssyji.ipfs.nftstorage.link/18.png",
+    "name": "CryptoPizza #18",
+    "Background": "1",
+    "Base": "1",
+    "Firstlayer": "7",
+    "Secondlayer": "3",
+    "Thirdlayer": "0",
+    "description": "White pizza with salami and broccoli"
+    ,"link":"https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/24894684413737311044233570448812585590437399991195926479275464275531353030657/"
+  },
+  {
+    "img": "https://bafybeicebkhglsylosa5qi5yzcnrg3r225gvxxvlh2fbm26fakutqssyji.ipfs.nftstorage.link/19.png",
+    "name": "CryptoPizza #19",
+    "Background": "4",
+    "Base": "0",
+    "Firstlayer": "3",
+    "Secondlayer": "6",
+    "Thirdlayer": "1",
+    "description": "Red pizza with raw ham, onions and basil"
+    ,"link":"https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/24894684413737311044233570448812585590437399991195926479275464276630864658433/"
+  },
+  {
+    "img": "https://bafybeicebkhglsylosa5qi5yzcnrg3r225gvxxvlh2fbm26fakutqssyji.ipfs.nftstorage.link/20.png",
+    "name": "CryptoPizza #20",
+    "Background": "1",
+    "Base": "1",
+    "Firstlayer": "7",
+    "Secondlayer": "1",
+    "Thirdlayer": "7",
+    "description": "White pizza with salami, gorgonzola and walnuts"
+    ,"link":"https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/24894684413737311044233570448812585590437399991195926479275464277730376286209/"
+  },
+  {
+    "img": "https://bafybeicebkhglsylosa5qi5yzcnrg3r225gvxxvlh2fbm26fakutqssyji.ipfs.nftstorage.link/21.png",
+    "name": "CryptoPizza #21",
+    "Background": "0",
+    "Base": "0",
+    "Firstlayer": "5",
+    "Secondlayer": "7",
+    "Thirdlayer": "8",
+    "description": "Red pizza with eggplant, eggs and yellow cherry tomatoes"
+    ,"link":"https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/24894684413737311044233570448812585590437399991195926479275464278829887913985/"
+  },
+  {
+    "img": "https://bafybeicebkhglsylosa5qi5yzcnrg3r225gvxxvlh2fbm26fakutqssyji.ipfs.nftstorage.link/22.png",
+    "name": "CryptoPizza #22",
+    "Background": "2",
+    "Base": "1",
+    "Firstlayer": "1",
+    "Secondlayer": "6",
+    "Thirdlayer": "5",
+    "description": "White pizza with potatoes, onions and origan"
+    ,"link":"https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/24894684413737311044233570448812585590437399991195926479275464279929399541761/"
+  },
+  {
+    "img": "https://bafybeicebkhglsylosa5qi5yzcnrg3r225gvxxvlh2fbm26fakutqssyji.ipfs.nftstorage.link/23.png",
+    "name": "CryptoPizza #23",
+    "Background": "3",
+    "Base": "1",
+    "Firstlayer": "5",
+    "Secondlayer": "3",
+    "Thirdlayer": "5",
+    "description": "White pizza with eggplant, broccoli and origan"
+    ,"link":"https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/24894684413737311044233570448812585590437399991195926479275464281028911169537/"
+  },
+  {
+    "img": "https://bafybeicebkhglsylosa5qi5yzcnrg3r225gvxxvlh2fbm26fakutqssyji.ipfs.nftstorage.link/24.png",
+    "name": "CryptoPizza #24",
+    "Background": "0",
+    "Base": "0",
+    "Firstlayer": "7",
+    "Secondlayer": "5",
+    "Thirdlayer": "6",
+    "description": "Red pizza with salami, mushrooms and garlic"
+    ,"link":"https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/24894684413737311044233570448812585590437399991195926479275464282128422797313/"
   }
+  
   
 ]
